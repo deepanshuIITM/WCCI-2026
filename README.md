@@ -1,2 +1,1 @@
-# Tutorial-Page
-Tutorial Page for WCCI 2026
+# WCCI 2026 Tutorial 
