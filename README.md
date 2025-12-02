@@ -1,5 +1,10 @@
-# Tutorial on Advances in EMO and Decision-making
-### *2026 IEEE World Congress on Computational Intelligence*
+<div style="padding: 15px; border-radius: 8px;
+background: linear-gradient(135deg, #007bff 0%, #6610f2 100%);
+color: blue;">
+  <h1 style="margin: 0;">Tutorial on Advances in EMO and Decision-making</h1>
+  <h3 style="margin: 0;"><em>2026 IEEE World Congress on Computational Intelligence</em></h3>
+</div>
+
 
 ## Title of the Tutorial
 
