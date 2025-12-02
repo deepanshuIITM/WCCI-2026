@@ -13,6 +13,9 @@ text-align: center;
 
 ### *Advances in Evolutionary Multi-criterion Optimization and Decision-making*
 
+<img width="631" height="625" alt="image" src="https://github.com/user-attachments/assets/96d2a7fd-4538-4b4c-9645-bf51893ba02f" />
+
+
 ## Short Description 
 
 This tutorial will begin with a quick overview of the fundamentals of evolutionary multi-objective optimization (EMO) and few multi-criteria decision-making (MCDM). The main focus, however, will be on recent advancements in EMO, including partial Pareto-set search, knowledge discovery, robust and reliability-based optimization, multi-objectivization techniques, regularized EMO, innovation path discovery, bilevel multi-objective optimization, and surrogate-assisted optimization. These topics aim to give participants a deeper understanding of the scope of EMO and inspire new research directions. A key component of the tutorial will be the Machine-DM concept, which uses trained machine learning (ML) models to emulate human decision makers and enables the creation of benchmark problems for interactive MCDM. This integration is expected to attract interest from the EC and ML communities. To further engage participants, the tutorial will include hands-on simulations demonstrating EMO algorithms for generating Pareto fronts and the Machine-DM framework for selecting preferred solutions using Bench-iMCDM methods. GitHub resources and code examples will be introduced to support practical understanding and future exploration.
