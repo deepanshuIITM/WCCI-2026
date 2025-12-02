@@ -9,7 +9,10 @@ text-align: center;
 
 <br>
 
-<img width="531" height="525" alt="image" src="https://github.com/user-attachments/assets/96d2a7fd-4538-4b4c-9645-bf51893ba02f" />
+<p align="center">
+  <img width="531" height="525" src="https://github.com/user-attachments/assets/96d2a7fd-4538-4b4c-9645-bf51893ba02f" alt="Tutorial Image">
+</p>
+
 
 ## Title of the Tutorial
 
