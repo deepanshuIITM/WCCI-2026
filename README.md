@@ -1,4 +1,6 @@
-#### Title: Advances in EMO and Decision-making
+##
+
+## Title: Advances in Evolutionary Multi-criterion Optimization and Decision-making
 
 ## Desciption
 
