@@ -8,7 +8,7 @@ This tutorial will begin with a quick overview of the fundamentals of evolutiona
 
 ## Organizers' Details
 
-<img src="https://github.com/user-attachments/assets/99a9b00c-9c37-44b6-86db-ce41d86226e4" alt="image" width="200" height="220">
+<img src="https://github.com/user-attachments/assets/99a9b00c-9c37-44b6-86db-ce41d86226e4" alt="image" width="200" height="210">
 
 #### Professoer Kalyanmoy Deb 
 
