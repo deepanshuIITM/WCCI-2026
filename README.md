@@ -1,10 +1,8 @@
-# Title of Tutorial: 
-
-## Advances in Evolutionary Multi-criterion Optimization and Decision-making
+# Advances in Evolutionary Multi-criterion Optimization and Decision-making
 
 ## Short Description 
 
-This tutorial will begin with a quick overview of the fundamentals of evolutionary multi-objective optimization (EMO), followed by a summary of widely used EMO algorithms, standard test problems, performance metrics, and application case studies. A brief introduction to a few multi-criteria decision-making (MCDM) approaches will also be provided. The main focus, however, will be on recent advancements in EMO that highlight its growing importance in practical problem-solving, including partial Pareto-set search, knowledge discovery, robust and reliability-based optimization, multi-objectivization techniques, regularized EMO, innovation path discovery, bilevel multi-objective optimization, and surrogate-assisted optimization. These topics aim to give participants a deeper understanding of the scope of EMO and inspire new research directions. A key component of the tutorial will be the Machine-DM concept, which uses trained machine learning (ML) models to emulate human decision makers and enables the creation of benchmark problems for interactive MCDM. With publicly available ML-based machine-DMs, both EMO and ML researchers can now design and compare new MCDM strategies more effectively. This integration is expected to attract interest from the EC and ML communities, making WCCI-2026 an ideal venue for this tutorial. To further engage participants, the tutorial will include hands-on simulations demonstrating EMO algorithms for generating Pareto fronts and the Machine-DM framework for selecting preferred solutions using Bench-iMCDM methods. GitHub resources and code examples will be introduced to support practical understanding and future exploration.
+This tutorial will begin with a quick overview of the fundamentals of evolutionary multi-objective optimization (EMO) and few multi-criteria decision-making (MCDM). The main focus, however, will be on recent advancements in EMO, including partial Pareto-set search, knowledge discovery, robust and reliability-based optimization, multi-objectivization techniques, regularized EMO, innovation path discovery, bilevel multi-objective optimization, and surrogate-assisted optimization. These topics aim to give participants a deeper understanding of the scope of EMO and inspire new research directions. A key component of the tutorial will be the Machine-DM concept, which uses trained machine learning (ML) models to emulate human decision makers and enables the creation of benchmark problems for interactive MCDM. This integration is expected to attract interest from the EC and ML communities. To further engage participants, the tutorial will include hands-on simulations demonstrating EMO algorithms for generating Pareto fronts and the Machine-DM framework for selecting preferred solutions using Bench-iMCDM methods. GitHub resources and code examples will be introduced to support practical understanding and future exploration.
 
 ## Organizers' Details
 
@@ -22,6 +20,21 @@ Dr. Deepanshu Yadav is a Post-doctoral Researcher at Department of Electrical an
 
 ## Schedule 
 
+Date: June 21, 2026 
+
+Time and Duration will be updated soon.
+
 ## Venue
 
+Maastricht Exhibition & Congress Centre (MECC)
+
+6229 GV Maastricht
+
+The Netherlands
+
+Further details on venue is available on [https://attend.ieee.org/wcci-2026/venue-2/](https://attend.ieee.org/wcci-2026/venue-2/){:target="_blank"}.
+
 ## Information for Attendees 
+
+This tutorial is aimed towards new-comers and experts interested and/or working in EMO field for them to have the basic fundamentals of EMO methods and then to know recent advancements of the field, so they can get certain directions for research. The iBench-MCDM discussion is completely recent and new, and will motivate EMO and EC researchers to get more involved in the MCDM part of the multi-objective optimization. 
+Moreover, due to the involvement of machine learning approaches, the tutorial may be of interest to IJCNN researchers as well.  
