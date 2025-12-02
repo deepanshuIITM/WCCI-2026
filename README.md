@@ -1,15 +1,11 @@
-##
+### Title: Advances in Evolutionary Multi-criterion Optimization and Decision-making
 
-## Title: Advances in Evolutionary Multi-criterion Optimization and Decision-making
+### Desciption
 
-## Desciption
+### Organizers' Details
 
-## Organizers
+### Schedule 
 
-## Schedule 
+### Venue
 
-## Venue
-
-## Proposed topics to be covered
-
-## Information for Attendees 
+### Information for Attendees 
