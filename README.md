@@ -28,7 +28,7 @@ This tutorial will begin with a quick overview of the fundamentals of evolutiona
   <tr>
     <td style="width: 220px;">
       <img src="https://github.com/user-attachments/assets/99a9b00c-9c37-44b6-86db-ce41d86226e4" 
-           alt="Prof. Deb" width="1500" height="1510">
+           alt="Prof. Deb" width="500" height="510">
     </td>
     <td>
       <h4>Professor Kalyanmoy Deb</h4>
@@ -48,7 +48,7 @@ This tutorial will begin with a quick overview of the fundamentals of evolutiona
   <tr>
     <td style="width: 220px;">
       <img src="https://github.com/deepanshuIITM/webpage/assets/137225940/d61d83be-5f4b-4f36-9be0-035b042c86af" 
-           alt="Prof. Deb" width="1500" height="1510">
+           alt="Prof. Deb" width="500" height="510">
     </td>
     <td>
       <h4>Dr. Deepanshu Yadav</h4>
