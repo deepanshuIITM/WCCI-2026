@@ -1,5 +1,5 @@
-# Advances in EMO and Decision-making
-### *Tutorial for 2026 IEEE World Congress on Computational Intelligence*
+# Tutorial on Advances in EMO and Decision-making
+### *2026 IEEE World Congress on Computational Intelligence*
 
 ## Title of the Tutorial
 
@@ -24,7 +24,7 @@ Professoer Kalyanmoy Deb is University Distinguished Professor at Department of 
 Dr. Deepanshu Yadav is a Post-doctoral Researcher at Department of Electrical and Computer Engineering, Michigan State University, USA. Dr. Yadav’s research interest includes data-driven modeling, optimization, and interactive multi-criteria decision making. He received his integrated M.S. + Ph.D. degree from Indian Institute of Technology (IIT) Madras, India. Dr. Yadav has been a Visiting Research Scholar at Michigan State University, USA. He earned his B.Tech. degree from National Institute of Technology (NIT) Kurukshetra, India. Further information about his research is available on [https://deepanshuiitm.github.io/webpage/](https://deepanshuiitm.github.io/webpage/){:target="_blank"}.
 
 
-## Outliune of the Tutorial
+## Outline of the Tutorial
 
 | **Section** | **Topic**                                                        | **Duration** |
 | ----------- | ---------------------------------------------------------------- | ------------ |
