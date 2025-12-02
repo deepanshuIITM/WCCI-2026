@@ -1,12 +1,13 @@
-<div style="padding: 16px; border-radius: 8px;
-background: #fff9c4;   /* light yellow */
-color: #0a1a6b;         /* dark blue */
+<div style="padding: 20px; border-radius: 10px;
+background: #0a1a6b;   /* dark blue */
+color: #ffffff;         /* white text */
+text-align: center;
 ">
-  <h1 style="margin: 0; color: #0a1a6b;">Tutorial on Advances in EMO and Decision-making</h1>
-  <h3 style="margin: 0; color: #0a1a6b;"><em>2026 IEEE World Congress on Computational Intelligence</em></h3>
+  <h1 style="margin: 0; color: #ffffff;">Tutorial on Advances in EMO and Decision-making</h1>
+  <h3 style="margin: 0; color: #ffffff;"><em>2026 IEEE World Congress on Computational Intelligence</em></h3>
 </div>
 
-<br><br>
+<br>
 
 ## Title of the Tutorial
 
