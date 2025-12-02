@@ -40,13 +40,13 @@ Dr. Deepanshu Yadav is a Post-doctoral Researcher at Department of Electrical an
 | **2**       | **Key EMO Algorithms**<br>*Test Problems & Performance Metrics*  | **10 min**   |
 | **3**       | **Key MCDM Approaches**                                          | **10 min**   |
 | **4**       | **Advances in Evolutionary Multi-Objective Optimization (EMO)**  | **40 min**   |
-|  4(a)       | ▸ *Many-Objective Optimization*                                  | 5 min        |
-|  4(b)       | ▸ *Partial Pareto-Set Search*                                    | 5 min        |
-|  4(c)       | ▸ *Knowledge Discovery*                                          | 5 min        |
-|  4(d)       | ▸ *Robust Optimization*                                          | 5 min        |
-|  4(e)       | ▸ *Surrogate-Assisted Optimization*                              | 5 min        |
-|  4(f)       | ▸ *Regularized EMO*                                              | 5 min        |
-|  4(g)       | ▸ *Innovation Path Discovery*                                    | 5 min        |
+|   (a)       | ▸ *Many-Objective Optimization*                                  | 5 min        |
+|   (b)       | ▸ *Partial Pareto-Set Search*                                    | 5 min        |
+|   (c)       | ▸ *Knowledge Discovery*                                          | 5 min        |
+|   (d)       | ▸ *Robust Optimization*                                          | 5 min        |
+|   (e)       | ▸ *Surrogate-Assisted Optimization*                              | 5 min        |
+|   (f)       | ▸ *Regularized EMO*                                              | 5 min        |
+|   (g)       | ▸ *Innovation Path Discovery*                                    | 5 min        |
 |  4(h)       | ▸ *Other Emerging Topics (incl. ML-based EMO)*                   | 5 min        |
 | **5**       | **Machine-DM based MCDM**                                        | **15 min**   |
 | **6**       | **Hands-on Demonstration**<br>*pymoo + iBench-MCDM GitHub Codes* | **5 min**    |
