@@ -1,5 +1,5 @@
 <div style="padding: 20px; border-radius: 10px;
-background: linear-gradient(135deg, #8ed6ff 0%, #4fa8ff 100%);
+background: linear-gradient(135deg, #5aa8f8 0%, #1e6fdd 100%);
 color: #ffffff;
 text-align: center;">
   <h1 style="margin: 0; color: #ffffff;">Tutorial on Advances in EMO and Decision-making</h1>
