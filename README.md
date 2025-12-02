@@ -1,6 +1,6 @@
 <div style="padding: 20px; border-radius: 10px;
-background: #1a2a8c;   /* dark blue */
-color: #ffffff;         /* white text */
+background: linear-gradient(135deg, #4a6cff 0%, #1a2a8c 100%);
+color: #ffffff;
 text-align: center;
 ">
   <h1 style="margin: 0; color: #ffffff;">Tutorial on Advances in EMO and Decision-making</h1>
