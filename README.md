@@ -13,7 +13,7 @@ text-align: center;
 
 ### *Advances in Evolutionary Multi-criterion Optimization and Decision-making*
 
-<img width="631" height="625" alt="image" src="https://github.com/user-attachments/assets/96d2a7fd-4538-4b4c-9645-bf51893ba02f" />
+<img width="500" height="495" alt="image" src="https://github.com/user-attachments/assets/96d2a7fd-4538-4b4c-9645-bf51893ba02f" />
 
 
 ## Short Description 
