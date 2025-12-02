@@ -1,1 +1,13 @@
-## Advances in Evolutionary Multi-Criterion Optimization and Decision-making
+## Title: Advances in EMO and Decision-making
+
+## Desciption
+
+## Organizers
+
+## Schedule 
+
+## Venue
+
+## Proposed topics to be covered
+
+## Information for Attendees 
