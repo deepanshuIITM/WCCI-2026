@@ -24,7 +24,26 @@ Dr. Deepanshu Yadav is a Post-doctoral Researcher at Department of Electrical an
 
 Date: June 21, 2026 
 
-Time and Duration will be updated soon.
+Time and duration will be updated soon.
+
+| **Section** | **Topic**                                                        | **Duration** |
+| ----------- | ---------------------------------------------------------------- | ------------ |
+| **1**       | **Introduction to Multi-Objective Optimization**                 | **5 min**    |
+| **2**       | **Key EMO Algorithms**<br>*Test Problems & Performance Metrics*  | **10 min**   |
+| **3**       | **Key MCDM Approaches**                                          | **10 min**   |
+| **4**       | **Advances in Evolutionary Multi-Objective Optimization (EMO)**  | **40 min**   |
+|  4(a)       | ▸ *Many-Objective Optimization*                                  | 5 min        |
+|  4(b)       | ▸ *Partial Pareto-Set Search*                                    | 5 min        |
+|  4(c)       | ▸ *Knowledge Discovery*                                          | 5 min        |
+|  4(d)       | ▸ *Robust Optimization*                                          | 5 min        |
+|  4(e)       | ▸ *Surrogate-Assisted Optimization*                              | 5 min        |
+|  4(f)       | ▸ *Regularized EMO*                                              | 5 min        |
+|  4(g)       | ▸ *Innovation Path Discovery*                                    | 5 min        |
+|  4(h)       | ▸ *Other Emerging Topics (incl. ML-based EMO)*                   | 5 min        |
+| **5**       | **Machine-DM based MCDM**                                        | **15 min**   |
+| **6**       | **Hands-on Demonstration**<br>*pymoo + iBench-MCDM GitHub Codes* | **5 min**    |
+| **7**       | **Q&A Session**                                                  | **5 min**    |
+
 
 ## Venue
 
