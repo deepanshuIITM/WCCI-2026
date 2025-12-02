@@ -1,4 +1,8 @@
-# Advances in Evolutionary Multi-criterion Optimization and Decision-making
+# 2026 IEEE World Congress on Computational Intelligence
+
+## Title of the Tutorial
+
+### Advances in Evolutionary Multi-criterion Optimization and Decision-making
 
 ## Short Description 
 
