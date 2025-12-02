@@ -20,11 +20,8 @@ Professoer Kalyanmoy Deb is University Distinguished Professor at Department of 
 
 Dr. Deepanshu Yadav is a Post-doctoral Researcher at Department of Electrical and Computer Engineering, Michigan State University, USA. Dr. Yadav’s research interest includes data-driven modeling, optimization, and interactive multi-criteria decision making. He received his integrated M.S. + Ph.D. degree from Indian Institute of Technology (IIT) Madras, India. Dr. Yadav has been a Visiting Research Scholar at Michigan State University, USA. He earned his B.Tech. degree from National Institute of Technology (NIT) Kurukshetra, India. Further information about his research is available on [https://deepanshuiitm.github.io/webpage/](https://deepanshuiitm.github.io/webpage/){:target="_blank"}.
 
-## Schedule 
 
-Date: June 21, 2026 
-
-Time and duration will be updated soon.
+## Outliune of the Tutorial
 
 | **Section** | **Topic**                                                        | **Duration** |
 | ----------- | ---------------------------------------------------------------- | ------------ |
@@ -44,6 +41,12 @@ Time and duration will be updated soon.
 | **6**       | **Hands-on Demonstration**<br>*pymoo + iBench-MCDM GitHub Codes* | **5 min**    |
 | **7**       | **Q&A Session**                                                  | **5 min**    |
 
+
+## Schedule 
+
+Date: June 21, 2026 
+
+Time and duration will be updated soon.
 
 ## Venue
 
