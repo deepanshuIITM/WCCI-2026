@@ -1,10 +1,12 @@
-<div style="padding: 15px; border-radius: 8px;
-background: linear-gradient(135deg, #003bff 0%, #2210f2 100%);
-color: white;">
-  <h1 style="margin: 0;">Tutorial on Advances in EMO and Decision-making</h1>
-  <h3 style="margin: 0;"><em>2026 IEEE World Congress on Computational Intelligence</em></h3>
+<div style="padding: 16px; border-radius: 8px;
+background: #fff9c4;   /* light yellow */
+color: #0a1a6b;         /* dark blue */
+">
+  <h1 style="margin: 0; color: #0a1a6b;">Tutorial on Advances in EMO and Decision-making</h1>
+  <h3 style="margin: 0; color: #0a1a6b;"><em>2026 IEEE World Congress on Computational Intelligence</em></h3>
 </div>
 
+<br><br>
 
 ## Title of the Tutorial
 
