@@ -1,8 +1,7 @@
 <div style="padding: 20px; border-radius: 10px;
-background: linear-gradient(135deg, #4a6cff 0%, #1a2a8c 100%);
+background: linear-gradient(135deg, #8ed6ff 0%, #4fa8ff 100%);
 color: #ffffff;
-text-align: center;
-">
+text-align: center;">
   <h1 style="margin: 0; color: #ffffff;">Tutorial on Advances in EMO and Decision-making</h1>
   <h3 style="margin: 0; color: #ffffff;"><em>2026 IEEE World Congress on Computational Intelligence</em></h3>
 </div>
