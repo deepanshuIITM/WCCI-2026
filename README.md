@@ -1,5 +1,5 @@
 <div style="padding: 20px; border-radius: 10px;
-background: #0a1a6b;   /* dark blue */
+background: #1a2a8c;   /* dark blue */
 color: #ffffff;         /* white text */
 text-align: center;
 ">
